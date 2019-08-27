@@ -1,2 +1,12 @@
-# USB-Rubber-Ducky-Scripts
-Here you will find a couple of script that I have written on my own for either self learning/research purposes or to DEMO and share.
+
+                    ____             __            _____           _       __      
+                   / __ \__  _______/ /____  __   / ___/__________(_)___  / /______
+                  / / / / / / / ___/ //_/ / / /   \__ \/ ___/ ___/ / __ \/ __/ ___/
+                 / /_/ / /_/ / /__/ ,< / /_/ /   ___/ / /__/ /  / / /_/ / /_(__  ) 
+                /_____/\__,_/\___/_/|_|\__, /   /____/\___/_/  /_/ .___/\__/____/  
+                                      /____/                    /_/                
+
+
+                My own custom ducky scripts, more to come feel free to use them.
+                                   !! sharing is caring !!
+
